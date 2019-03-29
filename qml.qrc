@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ItemRect.qml</file>
+        <file>sideRect.qml</file>
+        <file>images/right.png</file>
+        <file>MyTitle.qml</file>
+        <file>images/openFileH.png</file>
+        <file>images/openFileN.png</file>
+        <file>images/listH.png</file>
+        <file>images/listN.png</file>
+        <file>images/setH.png</file>
+        <file>images/setN.png</file>
+        <file>images/logo.png</file>
+        <file>images/search.png</file>
+        <file>images/searchH.png</file>
+        <file>images/historyH.png</file>
+        <file>images/historyN.png</file>
+        <file>images/maxH.png</file>
+        <file>images/maxN.png</file>
+        <file>images/minH.png</file>
+        <file>images/minN.png</file>
+        <file>images/personH.png</file>
+        <file>images/personN.png</file>
+        <file>images/returnH.png</file>
+        <file>images/returnN.png</file>
+        <file>images/skinH.png</file>
+        <file>images/skinN.png</file>
+        <file>images/close.png</file>
+        <file>images/verLineH.png</file>
+        <file>images/verLineN.png</file>
+        <file>images/down.png</file>
+        <file>MyToolTip.qml</file>
+    </qresource>
+</RCC>
